@@ -1,0 +1,287 @@
+
+[class^="zutabe-"] {
+    float: left;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+[class^="zutabe-"] {
+   width: 100%;
+}
+
+
+
+/** Oso txikiak **/
+@media (max-width: 400px){
+	
+	    .zutabe-osotxikia-1 {
+        width: 8.3333%;
+    }
+
+    .zutabe-osotxikia-2 {
+        width:  16.66666666666667%;
+    }
+
+
+    .zutabe-osotxikia-3 {
+        width: 25%;
+    }
+
+
+    .zutabe-osotxikia-4 {
+        width: 33.3333333%;
+    }
+
+    .zutabe-osotxikia-5 {
+        width: 41.66666666%;
+    }
+
+    .zutabe-osotxikia-6 {
+        width: 50%;
+    }
+
+    .zutabe-osotxikia-7 {
+        width: 58.33333333%;
+    }
+
+    .zutabe-osotxikia-8 {
+        width: 66.666666%;
+    }
+
+
+    .zutabe-osotxikia-9 {
+        width: 75%;
+    }
+
+    .zutabe-osotxikia-10 {
+        width: 83.333333333%;
+    }
+    
+      .zutabe-osotxikia-11 {
+        width: 91.66666666%;
+    }
+    
+     .zutabe-osotxikia-12 {
+        width: 100%;
+    }
+	
+}
+
+/** Txikia **/
+@media (min-width: 600px){
+    .zutabe-txikia-1 {
+        width: 8.3333%;
+    }
+
+    .zutabe-txikia-2 {
+        width: 16.6666%;
+    }
+
+
+    .zutabe-txikia-3 {
+        width: 25%;
+    }
+
+
+    .zutabe-txikia-4 {
+        width: 33.3333%;
+    }
+
+    .zutabe-txikia-5 {
+        width: 41.6666%;
+    }
+
+    .zutabe-txikia-6 {
+        width: 50%;
+    }
+
+    .zutabe-txikia-7 {
+        width: 58.3333%;
+    }
+
+    .zutabe-txikia-8 {
+        width: 66.6666%;
+    }
+
+
+    .zutabe-txikia-9 {
+        width: 75%;
+    }
+
+    .zutabe-txikia-10 {
+        width: 83.3333%;
+    }
+        .zutabe-txikia-11 {
+        width: 91.6666%;
+    }
+    
+     .zutabe-txikia-12 {
+        width: 100%;
+    }
+}
+
+/** Zutabe Ertaina **/
+@media (min-width: 800px){
+    
+    .zutabe-ertaina-1 {
+        width: 8.3333%;
+    }
+
+    .zutabe-ertaina-2 {
+        width:  16.66666666666667%;
+    }
+
+
+    .zutabe-ertaina-3 {
+        width: 25%;
+    }
+
+
+    .zutabe-ertaina-4 {
+        width: 33.3333333%;
+    }
+
+    .zutabe-ertaina-5 {
+        width: 41.66666666%;
+    }
+
+    .zutabe-ertaina-6 {
+        width: 50%;
+    }
+
+    .zutabe-ertaina-7 {
+        width:  58.33333333%;
+    }		   
+
+    .zutabe-ertaina-8 {
+        width: 66.66666%;
+    }
+
+
+    .zutabe-ertaina-9 {
+        width: 75%;
+    }
+
+    .zutabe-ertaina-10 {
+        width: 83.333333333%;
+    }
+     
+	.zutabe-ertaina-11 {
+        width: 91.66666666%;
+    }
+    
+     .zutabe-ertaina-12 {
+        width: 100%;
+    }  
+    
+}
+
+/** Zutabe Handia **/
+@media (min-width: 1000px){
+    
+     .zutabe-handia-1 {
+        width: 8.3333%%;
+    }
+
+    .zutabe-handia-2 {
+        width:  16.66666666666667%;
+    }
+
+
+    .zutabe-handia-3 {
+        width: 25%;
+    }
+
+
+    .zutabe-handia-4 {
+        width: 33.3333333%;
+    }
+
+    .zutabe-handia-5 {
+        width: 41.66666666%;
+    }
+
+    .zutabe-handia-6 {
+        width: 50%;
+    }
+
+    .zutabe-handia-7 {
+        width: 58.33333333%;
+    }
+
+    .zutabe-handia-8 {
+        width: 66.666666%;
+    }
+
+
+    .zutabe-handia-9 {
+        width: 75%;
+    }
+
+    .zutabe-handia-10 {
+        width: 83.333333333%;
+    }
+      
+	.zutabe-handia-11 {
+        width: 91.66666666%;
+    }
+    
+     .zutabe-handia-12 {
+        width: 100%;
+    }
+}
+
+/** Zutabe Oso Handia **/
+@media (min-width: 1200px){
+    .zutabe-osohandia-1 {
+        width: 8.3333%%;
+    }
+
+    .zutabe-osohandia-2 {
+        width:  16.66666666666667%;
+    }
+
+
+    .zutabe-osohandia-3 {
+        width: 25%;
+    }
+
+
+    .zutabe-osohandia-4 {
+        width: 33.3333333%;
+    }
+
+    .zutabe-osohandia-5 {
+        width: 41.66666666%;
+    }
+
+    .zutabe-osohandia-6 {
+        width: 50%;
+    }
+
+    .zutabe-osohandia-7 {
+        width: 58.33333333%;
+    }
+
+    .zutabe-osohandia-8 {
+        width: 66.666666%;
+    }
+
+
+    .zutabe-osohandia-9 {
+        width: 75%;
+    }
+
+    .zutabe-osohandia-10 {
+        width: 83.333333333%;
+    }
+    
+      .zutabe-osohandia-11 {
+        width: 91.66666666%;
+    }
+    
+     .zutabe-osohandia-12 {
+        width: 100%;
+    }
+}
