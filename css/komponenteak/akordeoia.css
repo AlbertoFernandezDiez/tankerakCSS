@@ -1,0 +1,29 @@
+
+.akordeoia {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.akordeoia div.edukaren-titulua {
+	padding: 10px;
+	background: #ccc;
+	border-bottom: 1px solid #fff;
+}
+
+.akordeoia div.edukaren-titulua:after {
+	content: "\02228";
+	float: right;
+}
+
+.akordeoia li div.edukia {
+	display: none;
+	padding: 10px;
+	background: #f9f9f9;
+	border: 1px solid #ddd;
+}
+
+.akordeoia li:hover div.edukia {
+	display: inherit;
+}

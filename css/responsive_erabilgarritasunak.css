@@ -1,0 +1,39 @@
+.kendu-padding {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+@media (max-width: 400px){
+	 .ezkutatu-osotxikia {
+        display: none;
+    }
+}
+
+/** Txikia **/
+@media (min-width: 600px){
+     .ezkutatu-txikia {
+        display: none;
+    }
+}
+
+/** Zutabe Ertaina **/
+@media (min-width: 800px){       
+    .ezkutatu-ertaina {
+        display: none;
+    }
+}
+
+/** Zutabe Handia **/
+@media (min-width: 1000px){    
+	.ezkutatu-handia {
+        display: none;
+    }
+}
+
+/** Zutabe Oso Handia **/
+@media ( min-width : 1200px) {
+	.ezkutatu-osohandia {
+		display: none;
+	}
+}

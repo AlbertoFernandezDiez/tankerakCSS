@@ -1,0 +1,39 @@
+.kontainerra {
+	margin: 0 auto;
+}
+
+
+/** Oso Txikia **/
+@media ( max-width : 400px) {
+	.kontainerra {
+		width: auto;
+	}
+}
+
+/** Txikia **/
+@media ( min-width : 600px) {
+	.kointainerra {
+		width: 575px;
+	}
+}
+
+/** Ertaina **/
+@media ( min-width : 800px) {
+	.kontainerra {
+		width: 775px;
+	}
+}
+
+/** Handia **/
+@media ( min-width : 1000px) {
+	.kontainerra {
+		width: 975px;
+	}
+}
+
+/** Oso Handia **/
+@media ( min-width : 1200px) {
+	.kontainerra {
+		width: 1175px;
+	}
+}
