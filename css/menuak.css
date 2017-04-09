@@ -30,6 +30,13 @@
 	display: inline;
 	padding-left: 15px;
 	padding-right: 15px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.nabigazio-menua ul.nabigazio-butoiak li:hover {
+	background-color: #d4d4d4;
+	
 }
 
 .nabigazio-menua .titulua img.logo {
